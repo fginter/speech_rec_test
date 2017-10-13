@@ -42,7 +42,7 @@
 2.
 
 - hei kuka sä olet
-- hei olen lauri laakkonen laakeksi kutsutaan
+- hei olen lauri _________ laakeksi kutsutaan
 - mitä sä opiskelet
 - opiskelen tietotekniikkaa turun yliopistossa
 - montas vuotta sä opiskelet monennetta
@@ -171,7 +171,7 @@
 5.
 
 - hei kuka sä olet
-- mä oon rantalekon leo sano krami ihan rohkeasti
+- mä oon ___________ leo sano krami ihan rohkeasti
 - okei krami eli mitä sä olit tekemässä tuolla äsken
 - se oli matematiikan demokerho tehdään insinöörimatematiikkaa
 - insinöörimatematiikka A:ta
@@ -209,7 +209,7 @@
 6.
 
 - hei kuka sä olet
-- mä olen irma puttonen mä olen täälä turun yliopistossa nyt maantieteen laitoksella töissä
+- mä olen irma ______ mä olen täälä turun yliopistossa nyt maantieteen laitoksella töissä
 - oletko sää... sä olet siis opettajana vai
 - ei mä oon tutkijana mä oon semmosessa projektissa
 - mitä te tutkitte tonne projektiin
@@ -241,14 +241,14 @@
 
 ----
 
- "Irma Puttonen Turun yliopiston maantieteen laitoksella projektissa jossa yhdistetään Turun yliopiston ja Åbo Akademi koulutuksen opiskella maantiedettä opiskelu geologiasta on väitellyt million marinbiologi vuotta oon ollu aina luonnosta kiinnostunu Mulle kasvanu ja aina ollut luonnon keskellä ja mä tykkään siitä mut se kuulosti kivalta"
+ "Irma ________ Turun yliopiston maantieteen laitoksella projektissa jossa yhdistetään Turun yliopiston ja Åbo Akademi koulutuksen opiskella maantiedettä opiskelu geologiasta on väitellyt million marinbiologi vuotta oon ollu aina luonnosta kiinnostunu Mulle kasvanu ja aina ollut luonnon keskellä ja mä tykkään siitä mut se kuulosti kivalta"
 
 "Joo joo Mitä toi oli Saaristomeri rehevöityminen ajokoulutusta on tarkoitus yhdistää tarkotus sitte"
 
 7.
 
 - joo eli kuka sä olet
-- mä oon teemu puutti ja mä alotin opinnot tota niin tosta tieteenkäsittelytieteestä tänä syksynä maisterivaiheessa ja oon tykännyt tähän asti tosi paljon
+- mä oon teemu ______ ja mä alotin opinnot tota niin tosta tieteenkäsittelytieteestä tänä syksynä maisterivaiheessa ja oon tykännyt tähän asti tosi paljon
 - sä oot maisterivaiheessa eli sä oot opiskellut varmaan jotain muuta
 - joo mä valmistuin viime joulukuussa turun AMK:sta tietotekniikan insinööriksi
 - okei joo mitäs pidit onko tämä paljon vastannut odotuksia tää TKT:n opiskelu
@@ -286,7 +286,7 @@
 8.
 
 - puhutaan jotain joo eli hei kuka sä olet
-- moikka mä olen niklas niemelä tietotekniikan opiskelija kolmatta vuotta
+- moikka mä olen niklas _______ tietotekniikan opiskelija kolmatta vuotta
 - okei mitäs sä teet täällä yliopistolla tällä hetkellä tähän aikaan
 - suunnittelin kandin tekemistä tai siis mulla on sisällysluettelo vielä vaiheessa vähän mun kandiaiheesta ja puolen tunnin päästä kandiohjaajan tapaaminen
 - mikä sun kandiaiheesi on
@@ -321,7 +321,7 @@
 
 ----
 
-"Moikka Moi Niklas Niemelä tietotekniikan opiskelen kolmatta vuotta suunnittelin kandin tekemistä tai siis mulla on sisällysluettelo vielä vaiheessa vähän mun Candy aiheesta ja taas puolen tunnin päästä känniin ohjaaja tapaaminen a free to play peleissä vähä suunnittelemat tota mä sanon rajattu ihan kunnolla sitä ajatteli elämänvaiheessa joten jotenkin ehkä sosiaalisen ominaisuuksien vaikutus tai joku ois ihan mielenkiintoinen siihen varmaan vaikuttajat paras lähdössä juteltiin Marlon Kaija Marko oli tehnyt tippa-t just pay to play peli ansaita malleista ja se jotenkin inspiroi Joo mä olin äsken syömässä Mitäs niin meillä oli luento"
+"Moikka Moi Niklas ________ tietotekniikan opiskelen kolmatta vuotta suunnittelin kandin tekemistä tai siis mulla on sisällysluettelo vielä vaiheessa vähän mun Candy aiheesta ja taas puolen tunnin päästä känniin ohjaaja tapaaminen a free to play peleissä vähä suunnittelemat tota mä sanon rajattu ihan kunnolla sitä ajatteli elämänvaiheessa joten jotenkin ehkä sosiaalisen ominaisuuksien vaikutus tai joku ois ihan mielenkiintoinen siihen varmaan vaikuttajat paras lähdössä juteltiin Marlon Kaija Marko oli tehnyt tippa-t just pay to play peli ansaita malleista ja se jotenkin inspiroi Joo mä olin äsken syömässä Mitäs niin meillä oli luento"
 
 "siellä missä broilerilasagne galileassa oli ihan hyvä mutta joudun yksin syömään enemmän kuin nautinnollista siltalehto pelvic ohjelmistotuotannon perusteiden luento siellä oli Hast yrityksestä nimeltä Winxit tyyppi vähän kertovat melkein perusteita ja ompeluksia mukavan lentoale saatiin Kumiankka Mä en itse asti ja mä tulin siihen siin vaihees vastuksia oli viimeinen Kumiankka jaossa mä vaan meissä viimeisessä olen Open harkitessa semmonen firma et se on 2014 15 16 valittu Suomen parhaaksi työpaikaksi Okei mennään tyttöystävän kanssa Hulluilla päivillä"
 
